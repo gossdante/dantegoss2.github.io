@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dante Goss's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Dante Goss"
+description              : &description "Kinesiology/sports medicine PhD student at the University of Virginia in the Exercise and Sports Injury Lab. Interested in wearable sensors, gait biomarkers, chronic musculoskeletal diseases, aging, and connecting it all with data"
+url                      : https://dantegoss.github.io # the base hostname & protocol for your site e.g. "https://dantegoss.github.io"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+repository               : "gossdante/dantegoss.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
