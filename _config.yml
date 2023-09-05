@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# theme                  : minima #"minimal-mistakes-jekyll"
-# remote_theme           : minima #"mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# theme                  : "flexible-jekyll" #"minimal-mistakes-jekyll"
+remote_theme           : "artemsheludko/flexible-jekyll" #"mmistakes/minimal-mistakes"
+# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
