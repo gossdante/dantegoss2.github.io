@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Dante Goss's Portfolio"
 title_separator          : "-"
 name                     : &name "Dante Goss"
-description              : &description "Kinesiology/sports medicine PhD student at the University of Virginia in the Exercise and Sports Injury Lab. Interested in wearable sensors, gait biomarkers, chronic musculoskeletal diseases, aging, and connecting it all with data"
+description              : &description "PhD Student at the University of Virginia"
 url                      : https://dantegoss.github.io # the base hostname & protocol for your site e.g. "https://dantegoss.github.io"
-baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gossdante/dantegoss.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dante Goss"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Kinesiology/sports medicine PhD student at the University of Virginia in the Exercise and Sports Injury Lab. Interested in wearable sensors, gait biomarkers, chronic musculoskeletal diseases, aging, and connecting it all with data"
+  location         : "Charlottesville, Virginia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : ## http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "DanteDGoss"
