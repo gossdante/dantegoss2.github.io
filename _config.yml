@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dante Goss"
   avatar           : "profile.png"
-  bio              : "Kinesiology/sports medicine PhD student at the University of Virginia in the Exercise and Sports Injury Lab. Interested in wearable sensors, gait biomarkers, chronic musculoskeletal diseases, aging, and connecting it all with data"
+  bio              : "Kinesiology/sports medicine PhD student at the University of Virginia in the Exercise and Sports Injury Lab. "\n "Interested in wearable sensors, gait biomarkers, chronic musculoskeletal diseases, aging, and connecting it all with data."
   location         : "Charlottesville, Virginia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
