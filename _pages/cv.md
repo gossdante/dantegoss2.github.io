@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Kinesiology, Indiana University Purdue University Indianapolis, 2021
+* Ph.D in Kinesiology, University of Virginia, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2021 - Present: Graduate Research Assistant
+  * University of Virginia
+  * Duties included: 
+  * Advisor: Jay Hertel
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019 - Present: Data Analyst & Research Associate
+  * Legacy Communication & Research
+  * Duties included: 
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * R
+  * Python
+  * Matlab
+  * SQL
+* Data Collection
+  * Optical Motion Capture
+  * Indirect Calorimetry
+  * Ultrasound
+  * Wearable IMU's
+  * Load Sensing Insoles
+* Research
+  * Study Design
+  * Descriptive Statistics
+  * Inferential Statistics
+  * Machine Learning 
 
 Publications
 ======
@@ -56,4 +65,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* University of Virginia Student Chapter of the American Society of Biomechanics
+  * 2021-2023: Social Co-Chair
+  * 2023 - Present: Vice President
+ 
