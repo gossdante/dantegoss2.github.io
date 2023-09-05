@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dante Goss"
   avatar           : "profile.png"
-  bio              : "Kinesiology/sports medicine PhD student at the University of Virginia in the Exercise and Sports Injury Lab. Interested in wearable sensors, gait biomarkers, chronic musculoskeletal diseases, aging, and connecting it all with data."
+  bio              : "Kinesiology PhD Student"
   location         : "Charlottesville, Virginia"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=dante+d+goss"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gossdante/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
