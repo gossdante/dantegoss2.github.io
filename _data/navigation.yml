@@ -3,8 +3,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
-  - title: "Resume"
-    url: /resume/
+  - title: "cv"
+    url: /cv/
         
   - title: "Blog Posts"
     url: /year-archive/
