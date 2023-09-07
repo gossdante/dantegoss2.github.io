@@ -6,7 +6,7 @@ excerpt: 'This paper measures the intra & inter rater reliability for a novel in
 date: 2023-08-01
 venue: 'International Journal of Sports Medicine'
 paperurl: 'https://doi.org/10.26603/001c.84310'
-citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Xu J, Goss DD, Saliba SA. (2023)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
