@@ -1,7 +1,7 @@
 ---
 title: "A Novel Intrinsic Foot Muscle Strength Dynamometer Demonstrates Moderate-To-Excellent Reliability and Validity"
 collection: publications
-permalink: /publications/Xuetal23.md
+permalink: /_publications/Xuetal23.md
 excerpt: 'This paper measures the intra & inter rater reliability for a novel intrinsic foot muscle strength dynamometer.'
 date: 2023-08-01
 venue: 'International Journal of Sports Medicine'
