@@ -8,7 +8,7 @@ venue: 'International Journal of Sports Medicine'
 paperurl: 'https://doi.org/10.26603/001c.84310'
 citation: 'Xu J, Goss DD, Saliba SA. (2023)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about...
 
 [Download paper here](https://doi.org/10.26603/001c.84310)
 
